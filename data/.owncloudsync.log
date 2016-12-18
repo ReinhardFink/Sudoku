@@ -1,0 +1,41 @@
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | other etag | other fileId | other instruction
+#=#=#=# Syncrun started 2016-01-07T20:22:13 until 2016-01-07T20:22:20 (7516 msec)
+19:22:13|599|Ablage.sudoku|INST_NEW|Up|1357319891||3969||4||201|0|0|||INST_NONE|
+19:22:13|934|Edith01-gespiegelt.sudoku|INST_NEW|Up|1351788552||3969||4||201|0|0|||INST_NONE|
+19:22:13|765|Knifflig001.sudoku|INST_NEW|Up|1352042533||3969||4||201|0|0|||INST_NONE|
+19:22:14|598|Knifflig002.sudoku|INST_NEW|Up|1352659040||3969||4||201|0|0|||INST_NONE|
+19:22:14|586|Knifflig003-fast.sudoku|INST_NEW|Up|1352298895||3969||4||201|0|0|||INST_NONE|
+19:22:14|602|Knifflig003-mitte.sudoku|INST_NEW|Up|1352547326||3969||4||201|0|0|||INST_NONE|
+19:22:14|674|Knifflig003.sudoku|INST_NEW|Up|1352293950||3969||4||201|0|0|||INST_NONE|
+19:22:14|653|Knifflig004-fast.sudoku|INST_NEW|Up|1353242576||3969||4||201|0|0|||INST_NONE|
+19:22:14|694|Knifflig004.sudoku|INST_NEW|Up|1353238995||3969||4||201|0|0|||INST_NONE|
+19:22:15|591|Knifflig005.sudoku|INST_NEW|Up|1353246913||3969||4||201|0|0|||INST_NONE|
+19:22:15|662|Knifflig006.sudoku|INST_NEW|Up|1353247151||3969||4||201|0|0|||INST_NONE|
+19:22:15|606|Knifflig007.sudoku|INST_NEW|Up|1357139474||3969||4||201|0|0|||INST_NONE|
+19:22:15|577|Knifflig008.sudoku|INST_NEW|Up|1357407915||3969||4||201|0|0|||INST_NONE|
+19:22:16|578|Rules-12.sudoku|INST_NEW|Up|1351804274||3969||4||201|0|0|||INST_NONE|
+19:22:16|600|Rules-2.sudoku|INST_NEW|Up|1351771599||3969||4||201|0|0|||INST_NONE|
+19:22:16|681|Schwierig001.sudoku|INST_NEW|Up|1351763318||3969||4||201|0|0|||INST_NONE|
+19:22:16|679|Schwierig002.sudoku|INST_NEW|Up|1357317652||3969||4||201|0|0|||INST_NONE|
+19:22:16|701|Sudoku.jar|INST_NEW|Up|1359814972||27583||4||201|0|0|||INST_NONE|
+19:22:17|536|SudokuEinstufung.txt|INST_NEW|Up|1357318730||117||4||201|0|0|||INST_NONE|
+19:22:17|1519|old|INST_NEW|Up|1351763111||4096||4||201|0|0|||INST_NONE|
+19:22:18|638|old/Edith01.sudoku|INST_NEW|Up|1351697346||3969||4||201|0|0|||INST_NONE|
+19:22:19|645|old/Edith02.sudoku|INST_NEW|Up|1351704143||3969||4||201|0|0|||INST_NONE|
+19:22:19|883|old/Edith03.sudoku|INST_NEW|Up|1351709251||3969||4||201|0|0|||INST_NONE|
+19:22:19|650|old/Edith04.sudoku|INST_NEW|Up|1351711366||3969||4||201|0|0|||INST_NONE|
+19:22:19|674|old/Edith13.sudoku|INST_NEW|Up|1351762844||3969||4||201|0|0|||INST_NONE|
+19:22:20|593|old/Edith14.sudoku|INST_NEW|Up|1351762863||3969||4||201|0|0|||INST_NONE|
+19:22:17|1548|test01.sudoku|INST_NEW|Up|1352047685||3969||4||201|0|0|||INST_NONE|
+19:22:17|1441|test02.sudoku|INST_NEW|Up|1352048766||3969||4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun started 2016-01-07T20:22:55 until 2016-01-07T20:22:56 (695 msec)
+#=#=#=# Syncrun started 2016-01-09T11:10:11 until 2016-01-09T11:10:11 (389 msec)
+#=#=#=# Syncrun started 2016-01-09T13:10:43 until 2016-01-09T13:10:43 (327 msec)
+#=#=#=# Syncrun started 2016-01-09T15:11:13 until 2016-01-09T15:11:14 (329 msec)
+#=#=#=# Syncrun started 2016-01-09T17:11:43 until 2016-01-09T17:11:44 (337 msec)
+#=#=#=# Syncrun started 2016-01-09T17:41:20 until 2016-01-09T17:41:21 (363 msec)
+#=#=#=# Syncrun started 2016-01-09T19:41:50 until 2016-01-09T19:41:51 (387 msec)
+#=#=#=# Syncrun started 2016-01-09T22:11:24 until 2016-01-09T22:11:24 (329 msec)
+#=#=#=# Syncrun started 2016-01-10T14:29:11 until 2016-01-10T14:29:12 (396 msec)
+#=#=#=# Syncrun started 2016-01-10T17:19:46 until 2016-01-10T17:19:46 (392 msec)
+#=#=#=# Syncrun started 2016-01-10T19:20:14 until 2016-01-10T19:20:14 (324 msec)
